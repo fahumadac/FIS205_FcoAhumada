@@ -33,4 +33,4 @@ A continuación se detalla el progreso de los objetivos computacionales y analí
 
 ## 📚 Tareas
 
-En la carpeta [`/Tareas`](./Tareas) se encuentran almacenadas las asignaciones menores desarrolladas durante las clases prácticas del curso. Cada subcarpeta o *notebook* contiene su propio enunciado y la resolución computacional correspondiente.
+En la carpeta [`/Tareas`](./Tareas) se encuentran almacenados los códigos y respuestas escritas de cada una de las tareas asignadas.
