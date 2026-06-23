@@ -24,10 +24,10 @@ A continuación se detalla el progreso de los objetivos computacionales y analí
 - [x] Extracción y ploteo de la dinámica poblacional $\rho_{ee}(t)$ para ambos regímenes.
 
 **Fase 3: Termodinámica y Conclusiones (Pendiente - Próxima Entrega)**
-- [ ] Cálculo numérico del Trabajo Extraído ($|W|$) y el Calor Disipado ($|Q|$).
-- [ ] Análisis comparativo de las cantidades termodinámicas (Exacta vs. Lindblad).
-- [ ] Formato final de gráficos vectoriales para calidad de publicación.
-- [ ] Redacción final del informe en LaTeX y conclusiones.
+- [x] Cálculo numérico del Trabajo Extraído ($|W|$) y el Calor Disipado ($|Q|$).
+- [x] Análisis comparativo de las cantidades termodinámicas (Exacta vs. Lindblad).
+- [x] Formato final de gráficos vectoriales para calidad de publicación.
+- [x] Redacción final del informe en LaTeX y conclusiones.
 
 ---
 
